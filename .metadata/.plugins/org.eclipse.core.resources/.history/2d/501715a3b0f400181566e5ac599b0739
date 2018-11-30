@@ -21,13 +21,9 @@ public class FSM {
 			{ 3, 5, 7, 9, 0 }, // state 1 (product menu)
 			{ 4, 6, 8, 10, 0 }, // state 2 (shelf menu)
 			{}, //state 3 (create product)
-			{},// state 4 (create shelf)
-			{},// state 5 (consult product)
-			{},// state 6 (consult shelf)
-			{},// state 7 (edit product)
-			{},// state 8 (edit shelf)
-			{},// state 9 (delete product)
-			{},// state 10 (delete shelf)
+			{},// state 4 ()
+	
+	
 	
 	
 	
